@@ -1,3 +1,31 @@
 .logo {
     width: 90px;
 }
+
+.active {
+    background-color: #EEDDCD;
+    color: #777075;
+    border: 1px solid #777075;
+}
+
+.product {
+    background-color: #EEDDCD;
+    border: 5px solid #FFF;
+    border-radius: 10px;
+}
+
+.img_box {
+    margin-top: 15px;
+}
+
+.btn-xs {
+    margin-bottom: 10px;
+    border: 1px solid #000; 
+}
+
+.aside_btn {
+    width: 200px;
+    background-color: #EEDDCD;
+    color: #777075;
+    border: 1px solid #777075;
+}
